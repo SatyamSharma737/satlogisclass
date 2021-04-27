@@ -30,7 +30,7 @@ def predict_note_authentication(UserID, Gender,Age,EstimatedSalary):
 def main():
     
     html_temp = """
-   <div class="" style="background-color:Brown;" >
+   <div class="" style="background-color:Green;" >
    <div class="clearfix">           
    <div class="col-md-12">
    <center><p style="font-size:40px;color:black;margin-top:10px;">Poornima Institute of Engineering & Technology</p></center> 
